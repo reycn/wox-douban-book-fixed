@@ -1,0 +1,13 @@
+{
+    "ID": "da611014b9b74ceaaa7d758ec09c1r96",
+    "ActionKeyword": "book",
+    "Name": "豆瓣图书(修复)",
+    "Description": "搜索豆瓣读书评分（2020.09 修复）",
+    "Author": "renmu",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/renmu123/wox-book",
+    "ExecuteFileName": "main.py",
+    "IcoPath": "Images\\books.png"
+
+}
